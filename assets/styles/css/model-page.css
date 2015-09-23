@@ -1,0 +1,88 @@
+.model-range {
+    margin: 1%;
+}
+
+.range {
+    font-size: 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+}
+
+.model-container {
+    margin: 6px;
+}
+
+.model {
+    color: #3a3a3a;
+    margin: 5px;
+    font-family: 'Serpentine D Bold';
+    font-size: 20px;
+    opacity: 0.6;
+}
+
+.model:hover {
+    color: #529CEB;
+    opacity: 1;
+}
+
+.categories {
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: #3a3a3a;
+    float: left;
+    width: 30%;
+}
+
+.category {
+    margin: 5%;
+    opacity:0.7;
+}
+
+.category:hover {
+    color: #529CEB;
+    opacity:1.0;
+}
+
+display-box {
+    float: right;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    color: black;
+}
+
+.cat-content {
+    position: relative;
+    float:right;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    margin: 3%;
+    margin-top: -21%;
+    width: 60%;
+}
+
+.grid-item {
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    float: right;
+    -webkit-transition: .7s ease-in-out opacity !important;
+    transition: .7s ease-in-out opacity !important;
+    opacity: 0.6;
+}
+
+.grid-item:hover {
+    z-index:555555 !important;
+    opacity: 1.0;
+}
+
+.mason {
+    position: relative;
+    margin-top: -21%;
+    max-width: 70%;
+    margin-left: 25%;
+    z-index: 10;
+}

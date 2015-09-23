@@ -1,0 +1,11 @@
+<div class='col-center col-lg-2 col-md-2 col-sm-4 col-xs-6'>
+    <div class='item hoverwrap'>
+        <figure class='figure-overlay figure-overlay-icon opacity'>
+            <img src='static/images/LF4.png' class='img-fill'>
+            <div>
+                <p class='absolute-hover'></p>
+            </div>
+        </figure>
+        <div class='text-hover' style='cursor: default'>Facebook</div>
+    </div>
+</div>
